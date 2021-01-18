@@ -4,7 +4,7 @@ This Infinite Scroller component was done  with React and using the Intersection
 
 # Infinite Scroller component Instructions
 
-Git clone this repo, you will need node on your computer to run this.
+Git clone this repo, you will need node on your computer to run this, then run  NPM INSTALL 
 
 ## Available Scripts
 
