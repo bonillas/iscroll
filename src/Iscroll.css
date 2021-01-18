@@ -1,0 +1,16 @@
+.Iscroll {
+    margin: 0 auto;
+    text-align: center;
+   
+}
+.Iscroll h1{
+  text-align: center;
+}
+.Iscroll-List{
+  text-align: center;
+  padding: 5px;
+  background: #eee;
+  margin: 10px;
+  height: 350px;
+}
+
